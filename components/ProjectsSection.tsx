@@ -180,7 +180,7 @@ export default function ProjectsSection() {
         'Learning Analytics',
         'Responsive User Interface',
       ],
-      tech: ['React', 'JavaScript', 'Node.js', 'Express.js', 'MongoDB'],
+      tech: ['React', 'JavaScript', 'Node.js', 'Express.js', 'postgreSQL'],
       progress: 40,
       progressLabel: 'In Development',
       badge: { icon: <Hammer className="w-4 h-4" />, text: 'Currently Building', type: 'building' as const },
